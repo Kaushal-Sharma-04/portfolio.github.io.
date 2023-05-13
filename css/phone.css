@@ -1,0 +1,50 @@
+/* navbar */
+.navbar {
+    flex-direction: column;
+}
+
+.navbar ul li {
+    font-size: .9rem;
+    padding: 8px 7px;
+
+}
+
+/* hero section */
+.hero {
+    height: 85vh;
+}
+
+.content h1 {
+    font-size: 4rem;
+}
+
+.content h3 {
+    font-size: 1.3rem;
+}
+
+/* About section */
+.about-info {
+    width: 90%;
+}
+
+/* skills section */
+.skills-details .text {
+    width: 90%;
+}
+
+.skills-details .boxes {
+    padding-right: 3rem;
+}
+
+/* services section */
+.services .boxes {
+    display: block;
+}
+
+.services .boxes .box {
+    width: 100vw;
+}
+
+.contact .container .text {
+    width: 90%;
+}
